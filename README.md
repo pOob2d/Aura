@@ -7,3 +7,14 @@ Shall set up the Raspberry Pi abd cofigure it for the project
 Shall install the Raspbian OS
 Shall enable SPI and 12C I/O
 Shall install and set up the SW tools
+
+
+1. Set up Raspberry pi. Mostly done
+2. 
+  - 3 unit conversions
+  - Prompts. stuff like "which unit would you like to convert"
+  - Centimeters to inches to feet.
+
+3. The LED will blink every time a conversion is commpleted
+  - Red
+  - 
